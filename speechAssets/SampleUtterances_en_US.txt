@@ -1,0 +1,20 @@
+GetNewFactIntent a fact
+GetNewFactIntent a eco fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a eco fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a eco fact
+GetNewFactIntent tell me tip
+GetNewFactIntent tell me a eco tip
+GetNewFactIntent give me tip
+GetNewFactIntent give me a eco tip
+GetNewFactIntent give me some information
+GetNewFactIntent give me some eco information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent tell me about the environment
+GetNewFactIntent how can I improve the environment
+GetNewFactIntent how i can help the environment
+GetNewFactIntent what can I do for the environment
+GetNewFactIntent what can I do to help the environment
+GetNewFactIntent how I can improve the environment
